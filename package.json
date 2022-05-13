@@ -30,7 +30,7 @@
 		"node": ">=8.10.0"
 	},
 	"dependencies": {
-		"chalk": "^4.1.0",
+		"chalk": "^4.1.2",
 		"commander": "^6.1.0",
 		"dotenv": "^6.1.0",
 		"ethers": "^5.0.17",
