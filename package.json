@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"chalk": "^4.1.0",
-		"commander": "^6.1.0",
+		"commander": "^6.2.1",
 		"dotenv": "^6.1.0",
 		"ethers": "^5.0.17",
 		"inquirer": "^7.3.3",
